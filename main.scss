@@ -1,0 +1,17 @@
+@use './Styles/header';
+@use './Styles/section1';
+@use './Styles/grid_second_container';
+@use './Styles/section_third';
+@use './Styles/section_fourth';
+@use './Styles/section_fifth';
+@use './Styles/footer';
+$font-family:'Poppins', sans-serif;
+
+*{
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+}
